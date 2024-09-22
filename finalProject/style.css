@@ -23,7 +23,16 @@ caption {
   font-family: "Courier New", Courier, monospace;
 }
 
-summary {
-  padding: 10px;
-  background-color: aquamarine;
+details {
+  padding: 20px;
+  width: fit-content;
+  background-color: #999;
+  border-radius: 20px;
+  margin: 30px;
+}
+
+details p {
+  padding: 20px;
+  background-color: #666;
+  border-radius: 15px;
 }
