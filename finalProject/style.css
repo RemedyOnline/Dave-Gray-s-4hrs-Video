@@ -1,0 +1,29 @@
+/* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+} */
+
+body {
+  font-size: 22px;
+  border: 1px solid;
+  margin-left: 10%;
+  margin-right: 20%;
+  padding: 20px;
+}
+
+table,
+th,
+tr,
+td,
+caption {
+  border: 1px solid;
+  padding: 10px;
+  text-align: center;
+  font-family: "Courier New", Courier, monospace;
+}
+
+summary {
+  padding: 10px;
+  background-color: aquamarine;
+}
